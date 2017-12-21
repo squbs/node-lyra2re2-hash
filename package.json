@@ -1,5 +1,5 @@
 {
-    "name": "lyra2re2-hash",
+    "name": "node-lyra2re2-hash",
     "version": "0.0.1",
     "main": "lyra2re2hash",
     "scripts": {
