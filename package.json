@@ -1,0 +1,30 @@
+{
+    "name": "lyra2re2-hash",
+    "version": "0.0.1",
+    "main": "lyra2re2hash",
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "author": {
+        "name": "STRAKS Developers",
+        "email": "developers@straks.io"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/squbs/node-lyra2re2-hash.git"
+    },
+    "dependencies": {
+        "bindings": "*",
+        "nan": "*",
+        "binascii": "*"
+    },
+    "keywords": [
+        "lyra2",
+        "lyra2re2",
+        "straks",
+        "stak",
+        "hash",
+        "crypto",
+        "cryptocurrency"
+    ]
+}
